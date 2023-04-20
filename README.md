@@ -1,1 +1,1 @@
-# sliderProject1
+# myProjects
